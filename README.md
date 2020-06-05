@@ -1,2 +1,2 @@
 # CapacitacionMoniorWebGL
-https://juanjsar.github.io/CapacitacionMoniorWebGL/. 
+https://netuxdevelopment.github.io/CapacitacionMonior-WebGL/
